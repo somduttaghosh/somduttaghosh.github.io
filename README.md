@@ -1,8 +1,8 @@
-## Somdutta Ghosh's webpage
+## About
 
-You can use the [editor on GitHub](https://github.com/somduttaghosh/somduttaghosh.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my webpage! I am a graduate student at North Carolina State University.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am interested in studying core-collapse supernova simulations and nucleosynthesis.
 
 ### Markdown
 
