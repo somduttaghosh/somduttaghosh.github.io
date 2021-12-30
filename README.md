@@ -1,26 +1,37 @@
-## About
+# Somdutta Ghosh
 
 Welcome to my webpage! I am a graduate student at North Carolina State University.
 
 I am from India where I obtained my Bachelor's degree in Physics from Presidency University, Kolkata and a Master's degree from Indian Institute of Technology Madrs (IITM).
 
-### Research
+## Research
 
-I am interested in studying core-collapse supernova simulations and nucleosynthesis.
+I am interested in studying core-collapse supernovae (CCSNe) simulations and nucleosynthesis.
 
-I work with Dr. Carla Frohlich and Dr. James Kneller at North Carolina State University.
+I work with [Dr. Carla Frohlich](https://physics.sciences.ncsu.edu/people/cfrohli/) and [Dr. James Kneller](https://physics.sciences.ncsu.edu/people/jpknelle/) at North Carolina State University.
 
-# Project 1
+### Project 1: CCSNe equation of state
 
-## Project 2
+I have studied how the dense matter equation of state affects the CCSNe explosion properties, the nucleosynthesis yields, and the remnant mass distribution in the universe. The paper is submitted to ApJ and can be found in arxiv (https://arxiv.org/pdf/2107.13016.pdf). 
 
+### Project 2: Neutrino signals from CCSNe
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+I plan to study the neutrino signals from CCSNe events and also the effect of EOS and progenitor metallicity on neutrino oscillations in CCSNe and neutrino signals detected by the neutrino detectors. 
 
-### Jekyll Themes
+## Teaching 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/somduttaghosh/somduttaghosh.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+I have been a teaching assistant for the following labs:
+1. PY 209 Physics lab for Engineers (Electromagnetism laboratory)
+2. PY 211 Non-calculus physics lab (Mechanics laboratory)
+3. PY 251 Introduction to Scientific Computing (Python)
 
-### Support or Contact
+## Outreach
+    
+1. As Co-Organizer for Astronomy Outreach Events, North Carolina State University I have helped organize and coordinate public observing events around the Research Triangle (Raleigh, Durham, & Chapel Hill)
+	
+2. As an executive member of Women in Physics, North Carolina State University I have helped organize career talks.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Contact
+
+Email: sghosh23@ncsu.edu
+Twitter: @somdutta_ghosh1
