@@ -2,29 +2,18 @@
 
 Welcome to my webpage! I am a graduate student at North Carolina State University.
 
+I am from India where I obtained my Bachelor's degree in Physics from Presidency University, Kolkata and a Master's degree from Indian Institute of Technology Madrs (IITM).
+
+### Research
+
 I am interested in studying core-collapse supernova simulations and nucleosynthesis.
 
-### Markdown
+I work with Dr. Carla Frohlich and Dr. James Kneller at North Carolina State University.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Project 1
 
-```markdown
-Syntax highlighted code block
+## Project 2
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
