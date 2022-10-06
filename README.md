@@ -8,7 +8,7 @@ I am from India where I obtained my Bachelor's degree in Physics from Presidency
 
 I am interested in studying core-collapse supernovae (CCSNe) simulations and nucleosynthesis.
 
-I work with [Dr. Carla Frohlich](https://physics.sciences.ncsu.edu/people/cfrohli/) and [Dr. James Kneller](https://physics.sciences.ncsu.edu/people/jpknelle/) at North Carolina State University.
+I work with [Prof. Carla Frohlich](https://physics.sciences.ncsu.edu/people/cfrohli/) and [Prof. James Kneller](https://physics.sciences.ncsu.edu/people/jpknelle/) at North Carolina State University.
 
 ### Project 1: CCSNe equation of state
 
