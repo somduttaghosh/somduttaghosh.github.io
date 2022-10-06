@@ -1,4 +1,4 @@
-# Somdutta Ghosh
+
 
 Welcome to my webpage! I am a graduate student at North Carolina State University.
 
