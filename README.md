@@ -12,7 +12,7 @@ I work with [Dr. Carla Frohlich](https://physics.sciences.ncsu.edu/people/cfrohl
 
 ### Project 1: CCSNe equation of state
 
-I have studied how the dense matter equation of state affects the CCSNe explosion properties, the nucleosynthesis yields, and the remnant mass distribution in the universe. The paper is submitted to ApJ and can be found in arxiv (https://arxiv.org/pdf/2107.13016.pdf). 
+I have studied how the dense matter equation of state affects the CCSNe explosion properties, the nucleosynthesis yields, and the remnant mass distribution in the universe. The paper is now published in ApJ (https://iopscience.iop.org/article/10.3847/1538-4357/ac4d20/pdf). 
 
 ### Project 2: Neutrino signals from CCSNe
 
