@@ -1,10 +1,13 @@
 
 
-Welcome to my webpage! I am a graduate student at North Carolina State University.
+Welcome to my webpage! I am an NP3M postdoctoral scholar associated with Penn State University, the University of New Hampshire, and Notre Dame University.
+I am from India where I obtained my Bachelor's in Physics from Presidency University, Kolkata, and a Master's degree from the Indian Institute of Technology Madras (IITM). I obtained my Ph.D. from North Carolina State University.
 
-I am from India where I obtained my Bachelor's degree in Physics from Presidency University, Kolkata and a Master's degree from Indian Institute of Technology Madrs (IITM).
+## Current Research
+I am currently working on neutron star merger simulations. I am interested in studying neutrino oscillations in neutron star mergers.
 
-## Research
+
+## PhD Research
 
 I am interested in studying core-collapse supernovae (CCSNe) simulations and nucleosynthesis.
 
@@ -16,20 +19,20 @@ I have studied how the dense matter equation of state affects the CCSNe explosio
 
 ### Project 2: Neutrino signals from CCSNe
 
-I plan to study the neutrino signals from CCSNe events and also the effect of EOS and progenitor metallicity on neutrino oscillations in CCSNe and neutrino signals detected by the neutrino detectors. 
+I plan to study the neutrino signals from CCSNe events and the effect of EOS and progenitor metallicity on neutrino oscillations in CCSNe and neutrino signals detected by the neutrino detectors. 
 
 ## Teaching 
 
 I have been a teaching assistant for the following labs:
 1. PY 209 Physics lab for Engineers (Electromagnetism laboratory)
-2. PY 211 Non-calculus physics lab (Mechanics laboratory)
+2. PY 211 Non-calculus physics lab (Mechanics Laboratory)
 3. PY 251 Introduction to Scientific Computing (Python)
 
 ## Outreach
     
-1. As Co-Organizer for Astronomy Outreach Events, North Carolina State University I have helped organize and coordinate public observing events around the Research Triangle (Raleigh, Durham, & Chapel Hill)
+1. As Co-Organizer for Astronomy Outreach Events, at North Carolina State University I have helped organize and coordinate public observing events around the Research Triangle (Raleigh, Durham, & Chapel Hill)
 	
-2. As an executive member of Women in Physics, North Carolina State University I have helped organize career talks.
+2. As an executive member of Women in Physics, at North Carolina State University I have helped organize career talks.
 
 ## Contact
 
