@@ -1,17 +1,14 @@
 
 
-Welcome to my webpage! I am an NP3M postdoctoral scholar associated with Penn State University, the University of New Hampshire, and Notre Dame University.
-I am from India where I obtained my Bachelor's in Physics from Presidency University, Kolkata, and a Master's degree from the Indian Institute of Technology Madras (IITM). I obtained my Ph.D. from North Carolina State University.
+Welcome to my webpage! I am a postdoctoral research fellow of the [Nuclear Physics from Multi-Messenger Mergers](https://np3m.org/) research hub. As an NP3M fellow, I am currently based in the University of New Hampshire with [Prof. Francois Foucart](https://sites.google.com/site/francoisfoucart) as the faculty host.
 
 ## Current Research
-I am currently working on neutron star merger simulations. I am interested in studying neutrino oscillations in neutron star mergers.
+I am interested in understanding extreme astrophysical events like Core-Collapse Supernovae and Compact Object Mergers and their contribution to heavy element nucleosynthesis. I use numerical simulations to study the underlying physics of the dynamical objects. I am particularly interested in understanding the role of neutrinos and their oscillatory behavior. Neutrino Oscillation can have significant effect on the the hydrodynamics as well as the subsequent nucleosyntesis. As a part of the NP3M collaboration, my goal is to understand the effect of neutrino oscillation on r-proceess abundances.
 
 
 ## PhD Research
 
-I am interested in studying core-collapse supernovae (CCSNe) simulations and nucleosynthesis.
-
-I work with [Prof. Carla Frohlich](https://physics.sciences.ncsu.edu/people/cfrohli/) and [Prof. James Kneller](https://physics.sciences.ncsu.edu/people/jpknelle/) at North Carolina State University.
+I have obtained my PhD from North carolina State University under the supervision of [Prof. Carla Frohlich](https://physics.sciences.ncsu.edu/people/cfrohli/). My primary work has been in studying Core-Collapse Supernovae explosions and explosive nucleosynthesis. I have also collaborated with [Prof. James Kneller](https://physics.sciences.ncsu.edu/people/jpknelle/) also at NC State to study Collective Neutrino Oscillation in Core-Collapse Supernova.
 
 ### Project 1: CCSNe equation of state
 
@@ -36,5 +33,4 @@ I have been a teaching assistant for the following labs:
 
 ## Contact
 
-Email: sghosh23@ncsu.edu
-Twitter: @somdutta_ghosh1
+Email: somdutta.ghosh@unh.edu
