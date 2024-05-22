@@ -36,5 +36,4 @@ I have been a teaching assistant for the following labs:
 
 ## Contact
 
-Email: sghosh23@ncsu.edu
-Twitter: @somdutta_ghosh1
+Email: somdutta.ghosh@unh.edu
